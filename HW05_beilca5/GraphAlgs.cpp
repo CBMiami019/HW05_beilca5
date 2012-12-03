@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//This assignment should satisfy Part A, B, and C on HW05. I understand some of my tests were not working correctly
+//in the MatrixGraph and ListGraph, and I did my best to fix most of them. This is my final product.
 
 /*
  * Solves the Traveling Salesperson Problem: finding the shortest cycle through a graph that 
